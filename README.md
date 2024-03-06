@@ -11,11 +11,11 @@ $ yarn install
 ```bash
 # development
 $ yarn start
-# or
-$ docker compose up
 
 # watch mode
 $ yarn start:dev
+# or
+$ docker compose up
 
 # production mode
 $ yarn start:prod
